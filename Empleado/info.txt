@@ -1,0 +1,11 @@
+/*Actividad. Defina la clase Empleado, esta clase debe almacenar la siguiente información dni,
+nombre, apellido, domicilio, fecha nacimiento y sueldo bruto.
+Todos estos datos son de tipo String excepto el sueldo bruto que es double.
+Todos los atributos son de acceso privado.
+Defina el método constructor de la clase
+Instancie 3 objetos
+Realice método calcular_edad()
+Realice método mostrar_datos()
+Realice el diagrama de clases de la clase empleado
+Subir código y diagrama en un archivo word.
+*/
